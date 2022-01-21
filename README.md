@@ -16,7 +16,7 @@ Step 2: Install the following Library's from Terminal of the Pycharm. (eg: pip i
 
 Step 3: Run the code of digit recognizer and after completion the train model will be saved.
 
-Step 4: Run GUI code then we can see Canvas to Test our Model
+Step 4: Run GUI code then we can see GUI to Test our Model
 
 Refernces: https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer
           
