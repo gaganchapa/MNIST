@@ -1,20 +1,38 @@
+# MNIST Recognizer with TensorFlow
 
-# Handwritten Digit Recognition with Keras
+This project is a handwritten digit recognizer using the MNIST dataset, implemented with TensorFlow.
 
-Project Installation Guide
+## Getting Started
 
-Step 1: Copy the code from the above folders and paste it in Pycharm.
+These instructions will help you set up and run the project on your local machine.
 
-Step 2: Install the following Library's from Terminal of the Pycharm. (eg: pip install numpy) 
-1. Keras
-2. Tensorflow
-3. Pillow
-4. Opencv
-5. tkinter
-6. Numpy
+### Prerequisites
 
-Step 3: Run the code of digit recognizer and after completion the train model will be saved.
+Make sure you have the following installed on your system:
 
-Step 4: Run GUI code then we can see GUI to Test our Model
+- Python 3.x
+- Keras
+- TensorFlow
+- Pillow
+- OpenCV
+- Tkinter (for GUI)
+- NumPy
 
-          
+You can install these dependencies using the following command:
+
+```bash
+pip install keras tensorflow pillow opencv-python-headless numpy
+```
+
+### Installing
+Clone the repository to your local machine:
+git clone https://github.com/gaganchapa/MNIST/tree/main
+
+### Running the Application
+To run the recognizer, execute the following command:
+```bash
+python GUI.py
+```
+
+### Sample Output:
+![Alt text](https://github.com/gaganchapa/MNIST/blob/main/sa.png)
