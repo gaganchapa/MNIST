@@ -1,4 +1,3 @@
-# 19MAT105--MATHEMATICS-FOR-INTELLIGENT-SYSTEMS
 
 # Handwritten Digit Recognition with Keras
 
