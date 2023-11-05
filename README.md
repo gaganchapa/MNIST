@@ -26,7 +26,10 @@ pip install keras tensorflow pillow opencv-python-headless numpy
 
 ### Installing
 Clone the repository to your local machine:
+
+```bash
 git clone https://github.com/gaganchapa/MNIST/tree/main
+```
 
 ### Running the Application
 To run the recognizer, execute the following command:
