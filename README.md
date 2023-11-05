@@ -18,6 +18,4 @@ Step 3: Run the code of digit recognizer and after completion the train model wi
 
 Step 4: Run GUI code then we can see GUI to Test our Model
 
-Refernces: https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer
           
-           https://medium.com/analytics-vidhya/handwritten-digit-recognition-gui-app-46e3d7b37287
